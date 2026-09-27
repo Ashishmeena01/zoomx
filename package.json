@@ -12,6 +12,10 @@
     "typescript": "^5"
   },
   "dependencies": {
+    "@types/express": "^5.0.6",
+    "dotenv": "^18.0.4",
+    "express": "^5.2.1",
+    "jose": "^6.2.12",
     "nanoid": "^6.0.1",
     "ws": "^8.21.3"
   }
